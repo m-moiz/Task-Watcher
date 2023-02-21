@@ -1,0 +1,16 @@
+{
+  "name": "task-watcher",
+  "version": "1.0.0",
+  "description": "An application that tracks the apps and websites that a user is visiting and checks if the websites/apps are the ones they should be visiting based on their tasks and allowed websites",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "mmoiz",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
